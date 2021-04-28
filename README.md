@@ -1,5 +1,5 @@
 # MOTION-DETECTION-USING-PIR-SENSOR
-Detection of motion of humans using passive infrared sensor
+**Detection of motion of humans using passive infrared sensor**
 
 **INTRODUCTION**
 
@@ -23,6 +23,7 @@ useful systems.
  Buzzer
  Breadboard
  Jumper wires
+
 **PIR Sensor operation **
 
 ****Passive Infrared (PIR) sensor is the foundation of the security system. The sensor's 
@@ -41,6 +42,7 @@ not emit any emissions itself. Instead, the sensor passively detects infrared
 radiation emitted by human body within its range****
 
 **Using simulation:**
+
 ![image](https://user-images.githubusercontent.com/83342178/116389754-f3653d80-a83a-11eb-9319-80ec0018481e.png)
 
 **Using hardware components**
