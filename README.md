@@ -34,6 +34,9 @@ radiations. Fig 2 below shows how the sensor detects human movements.
 PIR sensor plays a passive role in the detection of infrared radiations i.e., it does 
 not emit any emissions itself. Instead, the sensor passively detects infrared 
 radiation emitted by human body within its range****
+**Using simulation:**
+![image](https://user-images.githubusercontent.com/83342178/116389754-f3653d80-a83a-11eb-9319-80ec0018481e.png)
+**Using hardware components**
 ![image](https://user-images.githubusercontent.com/83342178/116389071-2bb84c00-a83a-11eb-99ae-d50cf9b4aceb.png)
 ![image](https://user-images.githubusercontent.com/83342178/116389118-3a066800-a83a-11eb-845b-c2ae388851ef.png)
 
