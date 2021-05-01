@@ -24,23 +24,6 @@ useful systems.
  Breadboard
  Jumper wires
 
-**PIR Sensor operation **
-
-****Passive Infrared (PIR) sensor is the foundation of the security system. The sensor's 
-functionality is based on infrared radiations emitted from the human body. It is a 
-useful tool for detection of human movement as it detects a change in infrared 
-radiations as a result of moving warm-blooded objects within their range. All 
-objects, including human beings, produce electromagnetic radiations. The 
-wavelengths of these radiations are dependent on the temperature of objects. 
-Human beings emit infrared radiation with wavelengths ranging between 0.7 and 
-300 micrometres . On the other hand, normal body temperature of human beings 
-radiates IR at wavelengths of 10 micrometres to 12 micrometres.PIR sensors, 
-passive electronic devices detect motion by sensing the fluctuations of infrared 
-radiations. Fig 2 below shows how the sensor detects human movements.
-PIR sensor plays a passive role in the detection of infrared radiations i.e., it does 
-not emit any emissions itself. Instead, the sensor passively detects infrared 
-radiation emitted by human body within its range****
-
 **Using simulation:**
 
 ![image](https://user-images.githubusercontent.com/83342178/116389754-f3653d80-a83a-11eb-9319-80ec0018481e.png)
